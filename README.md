@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### This is Denis Eiras' profile
 
 
-- 🔭 I’m currently working on <a href="https://github.com/monanadmin/monan"> MONAN Project </a>
+- 🔭 I’m currently working on <a href="https://github.com/monanadmin/monan"> MONAN Project </a> - <a href="https://www.youtube.com/watch?v=lq4pmpvqBIM&feature=emb_imp_woyt"> Intro Vídeo </a>
 - 🌱 I’m currently learning HPC, Artificial Intelligence, Project Management, AWS ...
 - 👯 I’m looking to collaborate on projects based on HPC, Artificial Intelligence and AWS.
 
