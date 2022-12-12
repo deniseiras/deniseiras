@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello World!
-### This is Denis Eiras' profile
+<p align="center">Hello World!</p>
+
+  
+#### This is Denis Eiras' profile
 
 
 - 🔭 I’m currently working on <a href="https://github.com/monanadmin/monan"> MONAN Project </a> - <a href="https://www.youtube.com/watch?v=lq4pmpvqBIM&feature=emb_imp_woyt"> Intro Vídeo </a>
@@ -29,7 +31,7 @@ Here are some ideas to get you started:
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deniseiras&theme=github_dark"/>
     
 
-## Contact :iphone:
+#### Contacts
 
 <p align="center">
     <a href="https://www.linkedin.com/in/deniseiras">
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
 
-  ### Total Profile Views  <br>
+  #### Total Profile Views  <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/deniseiras/count.svg" />
  </p>
