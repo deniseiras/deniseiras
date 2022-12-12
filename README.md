@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deniseiras&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide_border=true"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniseiras&layout=compact&langs_count=20&theme=transparent&hide_border=true"/>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deniseiras&theme=github_dark"/> 
-
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deniseiras&theme=github_dark"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deniseiras&theme=github_dark"/>
+    
 
 ## Contact :iphone:
 
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
 
-  ## Total Profile Views  <br>
+  ### Total Profile Views  <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/deniseiras/count.svg" />
  </p>
