@@ -24,13 +24,19 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning HPC, Artificial Intelligence, Project Management, AWS ...
 - 👯 I’m looking to collaborate on projects based on HPC, Artificial Intelligence and AWS.
 
+#### Badges
+![oracle-certified-professional-java-se-6-programmer](https://user-images.githubusercontent.com/6113640/215191845-4cfe94a3-6d67-4bf1-b187-c1a76bb952aa.png)
+![aws-cloud-quest-cloud-practitioner](https://user-images.githubusercontent.com/6113640/215191821-99954c60-55bb-4ff0-8fbd-1f0a18bfc214.png)
+
+
+
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deniseiras&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide_border=true"/> 
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deniseiras&theme=github_dark"/> 
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deniseiras&theme=github_dark"/>
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deniseiras&theme=github_dark"/>
-    
-
+ 
+  
 #### Contacts
 
 <p align="center">
