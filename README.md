@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on <a href="https://github.com/monanadmin/monan"> MONAN Project </a> - <a href="https://www.youtube.com/watch?v=lq4pmpvqBIM&feature=emb_imp_woyt"> Intro Vídeo </a>
-- 🌱 I’m currently learning HPC, Artificial Intelligence, Project Management, AWS ...
-- 👯 I’m looking to collaborate on projects based on HPC, Artificial Intelligence and AWS.
+- 🌱 I’m currently learning Data Science/Artificial Intelligence, AWS, HPC
+- 👯 I’m looking to collaborate on projects based on Data Science/Artificial Intelligence, cloud computing (AWS) and HPC
+- 💻 Some of my achievements on my [Linkedin profile](https://www.linkedin.com/in/deniseiras)
 
 #### Badges
 ![oracle-certified-professional-java-se-6-programmer](https://user-images.githubusercontent.com/6113640/215191845-4cfe94a3-6d67-4bf1-b187-c1a76bb952aa.png)
