@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 - 💻 Some of my achievements on my [Linkedin profile](https://www.linkedin.com/in/deniseiras)
 
 #### Badges
-![oracle-certified-professional-java-se-6-programmer](https://user-images.githubusercontent.com/6113640/215191845-4cfe94a3-6d67-4bf1-b187-c1a76bb952aa.png)
-![aws-cloud-quest-cloud-practitioner](https://user-images.githubusercontent.com/6113640/215191821-99954c60-55bb-4ff0-8fbd-1f0a18bfc214.png)
+
+![aws-certified-cloud-practitioner_small](https://user-images.githubusercontent.com/6113640/221230852-5c8d9860-f855-43e4-b96d-d5c684ef542c.png)
+![aws-cloud-quest-cloud-practitioner_small](https://user-images.githubusercontent.com/6113640/221230987-f16a373f-6686-4b8a-96ef-83ed6db2f570.png)
+![oracle-certified-professional-java-se-6-programmer_small](https://user-images.githubusercontent.com/6113640/221231067-58db0aef-ad20-437d-b0ac-39acd4b774dc.png)
 
 
 
