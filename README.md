@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 #### This is Denis Eiras' profile
 
 
-- 🔭 I’m currently working on <a href="https://github.com/monanadmin/monan"> MONAN Project </a> - <a href="https://www.youtube.com/watch?v=lq4pmpvqBIM&feature=emb_imp_woyt"> Intro Vídeo </a>
-- 🌱 I’m currently learning Data Science, HPC, Spark, Docker, Kubernets
-- 👯 I’m looking to collaborate on projects based on Data Science/Artificial Intelligence, cloud computing (AWS), Spark, Docker, Kubernets and HPC
-- 💻 Some of my achievements on my [Linkedin profile](https://www.linkedin.com/in/deniseiras)
+- 🔭 I’m currently working on <a href="https://github.com/monanadmin"> MONAN Project </a> - <a href="https://www.youtube.com/watch?v=lq4pmpvqBIM&feature=emb_imp_woyt"> Intro Vídeo </a>
+- 💻 Working with ➡️ HPC systems design and development, Python, Fortran, software engineering definitions and implementation
+- 🌱 Learning ➡️ cloud computing, data science, HPC, Spark, Docker, Kubernets
+- 👯 Looking to collaborate on ➡️ projects based on Data Science, CI/CD pipelines, cloud computing (AWS), Spark, Docker, Kubernets and HPC
+- 💾 For more information ➡️ check my [Linkedin profile](https://www.linkedin.com/in/deniseiras) or send me an [email](mailto:denis.eiras@gmail.com)
 
 #### Badges
 
