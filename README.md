@@ -1,30 +1,20 @@
+#### About me
 
+Hello World! My name is Denis, a computer scientist working with software design and development in scientific and comercial areas. My research and projects include software enginnering, software development for web, mobile and supercomputers, application lifecycle management, software development methodologies, machine learning and some other stuff. My passions are software engineering, automation of anything, machine learning (in a creative way to solve problems and accelerate applications). My hobbies are running (and other sports whenever I can), to automate things with Arduino and I am also a home brewer. Cheers 🍻!
 
-<!--
-**deniseiras/deniseiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">Hello World!</p>
-
-  
-#### This is Denis Eiras' profile
-
-
-- 🔭 I’m currently working on <a href="https://github.com/monanadmin"> MONAN Project </a> - <a href="https://www.youtube.com/watch?v=lq4pmpvqBIM&feature=emb_imp_woyt"> Intro Vídeo </a>
+- 🔭 I’m currently working on <a href="https://github.com/monanadmin"> MONAN Project </a> - <a href="https://www.youtube.com/watch?v=lq4pmpvqBIM&feature=emb_imp_woyt"> Intro Vídeo </a> - at <a href="https://www.gov.br/inpe">Instituto Nacional de Pesquisas Espaciais</a>
 - 💻 Working with ➡️ HPC systems design and development, Python, Fortran, software engineering definitions and implementation
 - 🌱 Learning ➡️ cloud computing, data science, HPC, Spark, Docker, Kubernets
 - 👯 Looking to collaborate on ➡️ projects based on Data Science, CI/CD pipelines, cloud computing (AWS), Spark, Docker, Kubernets and HPC
 - 💾 For more information ➡️ check my [Linkedin profile](https://www.linkedin.com/in/deniseiras) or send me an [email](mailto:denis.eiras@gmail.com)
+
+#### Projects and repositories I've been working
+
+- https://github.com/deniseiras
+- https://github.com/monanadmin
+- https://github.com/GCC-DIMNT-CPTEC
+- https://cloud.sylabs.io/library/denis.eiras
+- https://pypi.org/user/denis.eiras/
 
 #### Badges
 
@@ -32,7 +22,7 @@ Here are some ideas to get you started:
 ![aws-cloud-quest-cloud-practitioner_small](https://user-images.githubusercontent.com/6113640/221230987-f16a373f-6686-4b8a-96ef-83ed6db2f570.png)
 ![oracle-certified-professional-java-se-6-programmer_small](https://user-images.githubusercontent.com/6113640/221231067-58db0aef-ad20-437d-b0ac-39acd4b774dc.png)
 
-
+#### Some Github stats
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deniseiras&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide_border=true"/> 
