@@ -1,11 +1,11 @@
 #### About me
 
-Hello World! My name is Denis, a computer scientist working with software design and development in scientific and comercial areas. My research and projects include software enginnering, software development for web, mobile and supercomputers, application lifecycle management, software development methodologies, machine learning and data science. My passions are software engineering, automation of anything, machine learning (in a creative way to solve problems and accelerate applications). My hobbies are running (and other sports whenever I can), to automate things with Arduino and I am also a home brewer. Cheers 🍻!
+Hello World! My name is Denis, a computer scientist working with software design and development in scientific and comercial areas. My research and projects include software enginnering, software development for web, mobile and supercomputers, application lifecycle management, software development methodologies, machine learning and data science. My passions are software engineering,  machine learning, automation of anything. My hobbies are running (and other sports whenever I can), to automate things with Arduino and I am also a home brewer. Cheers 🍻!
 
 - 🔭 I’m currently working on <a href="https://github.com/monanadmin"> MONAN Project </a> - <a href="https://www.youtube.com/watch?v=lq4pmpvqBIM&feature=emb_imp_woyt"> Intro Vídeo </a> - at <a href="https://www.gov.br/inpe">Instituto Nacional de Pesquisas Espaciais</a>
-- 💻 Working with ➡️ HPC systems design and development, Python, Fortran, software engineering definitions and implementation
-- 🌱 Learning ➡️ cloud computing, data science, HPC, Spark, Docker, Kubernets
-- 👯 Looking to collaborate on ➡️ projects based on Data Science, CI/CD pipelines, cloud computing (AWS), Spark, Docker, Kubernets and HPC
+- 💻 Working with ➡️ Machine Learning, HPC systems design and development, Python, Fortran, software engineering definitions and implementation
+- 🌱 Learning ➡️ Data Science, Cloud Computing, HPC, Spark, Docker, Kubernets ...
+- 👯 Looking to collaborate on ➡️ projects on Machine Learning, Cloud computing, and also CI/CD pipelines, Spark, Docker, Kubernets.
 - 💾 For more information ➡️ check my [Linkedin profile](https://www.linkedin.com/in/deniseiras) or send me an [email](mailto:denis.eiras@gmail.com)
 
 #### Projects and repositories I've been working
