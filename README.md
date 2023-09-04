@@ -11,10 +11,11 @@ Hello World! My name is Denis, a computer scientist working with software design
 #### Projects and repositories I've been working
 
 - https://github.com/deniseiras
+- https://www.kaggle.com/deniseiras
+- https://pypi.org/user/denis.eiras/
 - https://github.com/monanadmin
 - https://github.com/GCC-DIMNT-CPTEC
 - https://cloud.sylabs.io/library/denis.eiras
-- https://pypi.org/user/denis.eiras/
 
 #### Badges
 
