@@ -4,7 +4,7 @@ Hello World! My name is Denis, a computer scientist working with software design
 
 - 🔭 I’m currently working on <a href="https://github.com/monanadmin"> MONAN Project </a> at <a href="https://www.gov.br/inpe">Instituto Nacional de Pesquisas Espaciais</a>
 - 💻 Working with ➡️ Machine Learning, HPC systems design and development, Python, Fortran, software engineering definitions and implementation
-- 🌱 Learning ➡️ Data Science, Cloud Computing, HPC, Spark, Docker, Kubernets ...
+- 🌱 Learning ➡️ <a href="https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics"> MBA Data Science & Analitcs </a>
 - 👯 Looking to collaborate on ➡️ projects on Machine Learning, Cloud computing, and also CI/CD pipelines, Spark, Docker, Kubernets.
 - 💾 For more information ➡️ check my [Linkedin profile](https://www.linkedin.com/in/deniseiras) or send me an [email](mailto:denis.eiras@gmail.com)
 
