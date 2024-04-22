@@ -1,6 +1,12 @@
 #### About me
 
-Hello World! My name is Denis, a computer scientist working with software design and development in scientific and comercial areas. My research and projects include software enginnering, software development for web, mobile and supercomputers, application lifecycle management, software development methodologies, machine learning and data science. My passions are software engineering,  machine learning, automation of anything. My hobbies are running (and other sports whenever I can), to automate things with Arduino and I am also a home brewer. Cheers 🍻!
+Hello World! I'm Denis, a seasoned computer scientist deeply entrenched in the realms of software design and development, both in scientific and commercial domains. My journey traverses a rich landscape of research and projects spanning machine learning, software engineering and supercomputer software architecture.
+
+At the vibrant nexus of software engineering and machine learning, my passion ignites as I delve into the realms of automation, wielding the power of data-driven insights to tackle complex challenges and unlock tangible business value. With an unwavering commitment to innovation, I leverage advanced algorithms and predictive analytics to not only solve problems but also to drive strategic decision-making and propel organizational growth.
+
+I find joy in the art of automation, often tinkering with Arduino projects to streamline everyday tasks. And when relaxation calls, I channel my creativity as a home brewer, concocting delightful libations to share and savor.
+
+Here's to the thrill of innovation and the joy of exploration. Cheers! 🍻
 
 - 🔭 I’m currently working on <a href="https://github.com/monanadmin"> MONAN Project </a> at <a href="https://www.gov.br/inpe">Instituto Nacional de Pesquisas Espaciais</a>
 - 💻 Working with ➡️ Machine Learning, HPC systems design and development, Python, Fortran, software engineering definitions and implementation
