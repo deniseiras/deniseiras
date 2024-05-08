@@ -16,11 +16,11 @@ Here's to the thrill of innovation and the joy of exploration. Cheers! 🍻
 
 #### Projects and repositories I've been working
 
+- https://github.com/monanadmin
+- https://github.com/GCC-DIMNT-CPTEC
 - https://github.com/deniseiras
 - https://www.kaggle.com/deniseiras
 - https://pypi.org/user/denis.eiras/
-- https://github.com/monanadmin
-- https://github.com/GCC-DIMNT-CPTEC
 - https://cloud.sylabs.io/library/denis.eiras
 
 #### Badges
@@ -35,7 +35,6 @@ Here's to the thrill of innovation and the joy of exploration. Cheers! 🍻
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deniseiras&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide_border=true"/> 
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deniseiras&theme=github_dark"/> 
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deniseiras&theme=github_dark"/>
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deniseiras&theme=github_dark"/>
  
   
 #### Contacts
