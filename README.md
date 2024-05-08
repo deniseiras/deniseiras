@@ -1,4 +1,4 @@
-#### About me
+### About me
 
 Hello World! I'm Denis, a seasoned computer scientist deeply entrenched in the realms of software design and development, both in scientific and commercial domains. My journey traverses a rich landscape of research and projects spanning machine learning, software engineering and supercomputer software architecture.
 
@@ -14,15 +14,6 @@ Here's to the thrill of innovation and the joy of exploration. Cheers! 🍻
 - 👯 Looking to collaborate on ➡️ projects on Machine Learning, Cloud computing, and also CI/CD pipelines, Spark, Docker, Kubernets.
 - 💾 For more information ➡️ check my [Linkedin profile](https://www.linkedin.com/in/deniseiras) or send me an [email](mailto:denis.eiras@gmail.com)
 
-#### Projects and repositories I've been working
-
-- https://github.com/monanadmin
-- https://github.com/GCC-DIMNT-CPTEC
-- https://github.com/deniseiras
-- https://www.kaggle.com/deniseiras
-- https://pypi.org/user/denis.eiras/
-- https://cloud.sylabs.io/library/denis.eiras
-
 #### Badges
 
 ![aws-certified-cloud-practitioner_small](https://user-images.githubusercontent.com/6113640/221230852-5c8d9860-f855-43e4-b96d-d5c684ef542c.png)
@@ -35,7 +26,24 @@ Here's to the thrill of innovation and the joy of exploration. Cheers! 🍻
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deniseiras&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&hide_border=true"/> 
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deniseiras&theme=github_dark"/> 
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deniseiras&theme=github_dark"/>
- 
+
+### Projects and repositories I've been working
+
+- https://github.com/deniseiras : The repositories in here are classified between (repo name starts with the words):
+  - PORTFOLIO: code may be used as my portfolio. Not always means I put my best programming pratices. 
+  - PROFESSIONAL: Forks from professional work. Most work are outside my useraccount.
+  - ACADEMIC: academic projects.
+  - DUMMY: not important
+
+Other PORTFOLIO at:
+- https://www.kaggle.com/deniseiras
+- https://pypi.org/user/denis.eiras/
+- https://cloud.sylabs.io/library/denis.eiras
+
+PROFESSIONAL (actual job):
+- https://github.com/monanadmin 
+- https://github.com/GCC-DIMNT-CPTEC
+
   
 #### Contacts
 
