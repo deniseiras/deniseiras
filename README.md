@@ -34,7 +34,9 @@ Here's to the thrill of innovation and the joy of exploration. Cheers! 🍻
   - PORTFOLIO: code may be used as my portfolio. Not always means I put my best programming pratices. 
   - PROFESSIONAL: Forks from professional work. Most work are outside my useraccount.
   - ACADEMIC: academic projects.
-  - DUMMY: not important
+  - COURSE: code from courses.
+  - TOOLS: Useful tools or libraries.
+  - DUMMY: less important.
 
 Other PORTFOLIO at:
 - https://www.kaggle.com/deniseiras
