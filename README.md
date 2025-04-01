@@ -1,6 +1,6 @@
 ### About me
 
-Hello World! I'm Denis, a seasoned computer scientist deeply entrenched in the realms of software design and development, both in scientific and commercial domains. My journey traverses a rich landscape of research and projects spanning machine learning, software engineering and supercomputer software architecture.
+Hello World! I'm Denis, a seasoned computer scientist deeply entrenched in the realms of software design and development, both in scientific and commercial domains. My journey traverses a rich landscape of research and projects spanning machine learning, software engineering and supercomputing.
 
 At the vibrant nexus of software engineering and machine learning, my passion ignites as I delve into the realms of automation, wielding the power of data-driven insights to tackle complex challenges and unlock tangible business value. With an unwavering commitment to innovation, I leverage advanced algorithms and predictive analytics to not only solve problems but also to drive strategic decision-making and propel organizational growth.
 
