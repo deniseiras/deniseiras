@@ -51,18 +51,6 @@ Other PORTFOLIO at:
     <a href="mailto:denis.eiras@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:denis.eiras@gmail.com">
     </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/denis_eiras">
-        <img  src="https://img.shields.io/badge/telegram-%23100000.svg?&style=for-the-badge&logo=telegram&logoColor=white&link=mailto:                           [https://web.telegram.org](https://t.me/denis_eiras)">
-    </a>
-
 </p>
 
 <p align="center"> 
-
-  #### Total Profile Views  <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/deniseiras/count.svg" />
- </p>
-
-</p>
