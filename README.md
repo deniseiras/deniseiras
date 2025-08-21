@@ -2,17 +2,14 @@
 
 Hello World! I'm Denis, a seasoned computer scientist deeply entrenched in the realms of software design and development, both in scientific and commercial domains. My journey traverses a rich landscape of research and projects spanning machine learning, software engineering and supercomputing.
 
-At the vibrant nexus of software engineering and machine learning, my passion ignites as I delve into the realms of automation, wielding the power of data-driven insights to tackle complex challenges and unlock tangible business value. With an unwavering commitment to innovation, I leverage advanced algorithms and predictive analytics to not only solve problems but also to drive strategic decision-making and propel organizational growth.
+My passion ignites as I delve into the realms of automation, wielding the power of data-driven insights to tackle complex challenges and unlock tangible business value. 
 
-I find joy in the art of automation, often tinkering with Arduino projects to streamline everyday tasks. And when relaxation calls, I channel my creativity as a home brewer, concocting delightful libations to share and savor.
+I find joy in the art of automation, often tinkering with Arduino projects to streamline everyday tasks. And when relaxation calls, I channel my creativity as a home brewer, concocting delightful libations to share and savor. Cheers! 🍻
 
-Here's to the thrill of innovation and the joy of exploration. Cheers! 🍻
-
-- 🔭 I’m currently working on <a href="https://github.com/monanadmin"> MONAN Project </a> at <a href="https://www.gov.br/inpe">Instituto Nacional de Pesquisas Espaciais</a>
-- 💻 Working with ➡️ Machine Learning, HPC systems design and development, Python, Fortran, software engineering definitions and implementation
-- 🌱 Learning ➡️ <a href="https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics"> MBA Data Science & Analitcs </a>
-- 👯 Looking to collaborate on ➡️ projects on Machine Learning, Cloud computing, and also CI/CD pipelines, Spark, Docker, Kubernets.
-- 💾 For more information ➡️ check my [Linkedin profile](https://www.linkedin.com/in/deniseiras) or send me an [email](mailto:denis.eiras@gmail.com)
+- 🔭 I’m currently working at   ➡️ <a href="https://www.cmcc.it/">Centro Euro-Mediterraneo Sui Cambiamenti Climatici</a>
+- 💻 Working with               ➡️ Machine Learning and HPC software engineering
+- 👯 Looking to collaborate on  ➡️ projects on Machine Learning, Cloud computing, and also CI/CD pipelines, Spark, Docker, Kubernets.
+- 💾 For more information       ➡️ [Linkedin profile](https://www.linkedin.com/in/deniseiras) or send me an [email](mailto:denis.eiras@gmail.com)
 
 #### Badges
 
@@ -42,10 +39,6 @@ Other PORTFOLIO at:
 - https://www.kaggle.com/deniseiras
 - https://pypi.org/user/denis.eiras/
 - https://cloud.sylabs.io/library/denis.eiras
-
-PROFESSIONAL (actual job):
-- https://github.com/monanadmin 
-- https://github.com/GCC-DIMNT-CPTEC
 
   
 #### Contacts
